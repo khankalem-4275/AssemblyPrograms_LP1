@@ -1,0 +1,1 @@
+rray[i][j]=result[j];

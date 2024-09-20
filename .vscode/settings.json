@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.cppStandard": "c++14",
+    "files.associations": {
+        "*.dart": "dart",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
